@@ -1,1 +1,4 @@
 # Mecanum_Encorder
+エンコーダの動確用のリポジトリ
+esp32-wroom32-eからuartで送られてくる情報をarduinoIDEで読めます。
+基板はESP32_Wroom32e_mrを使用
